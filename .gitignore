@@ -1,2 +1,4 @@
 # Ignore the Image Directory in the project
 /images
+#Ignore the results - it depends on the input that is given to the t1 and t2 python scripts
+result*.png
